@@ -1,1 +1,1 @@
-HTML + CSS +JAVASCRIPT RWD購物網站1號
+HTML + CSS +Javascript RWD購物網站1號
